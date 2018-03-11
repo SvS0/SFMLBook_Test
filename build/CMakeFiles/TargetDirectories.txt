@@ -1,0 +1,9 @@
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/edit_cache.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/package_source.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/rebuild_cache.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/package.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/install/local.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/install/strip.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/list_install_components.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/myproject.dir
+/home/svs0/Documents/dev/QuickStartSFML/build/CMakeFiles/install.dir

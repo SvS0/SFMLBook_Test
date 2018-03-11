@@ -1,0 +1,132 @@
+[
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/main.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/main.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/main.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/DataTables.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/DataTables.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/DataTables.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/SceneNode.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/SceneNode.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/SceneNode.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/State.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/State.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/State.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/LoadingState.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/LoadingState.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/LoadingState.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/ParallelTask.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/ParallelTask.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/ParallelTask.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Gaem.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Gaem.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Gaem.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/PauseState.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/PauseState.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/PauseState.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Player.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Player.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Player.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/MenuState.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/MenuState.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/MenuState.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/CommandQueue.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/CommandQueue.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/CommandQueue.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Component.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Component.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Component.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/SettingsState.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/SettingsState.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/SettingsState.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Entity.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Entity.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Entity.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Button.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Button.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Button.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Bar.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Bar.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Bar.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Command.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Command.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Command.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/TitleState.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/TitleState.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/TitleState.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/GaemState.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/GaemState.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/GaemState.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/TextNode.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/TextNode.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/TextNode.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/StateStack.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/StateStack.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/StateStack.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/World.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/World.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/World.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Utility.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Utility.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Utility.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Container.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Container.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Container.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Label.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Label.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Label.cpp"
+},
+{
+  "directory": "/home/svs0/Documents/dev/QuickStartSFML/build",
+  "command": "/usr/bin/c++    -I/home/svs0/Documents/dev/QuickStartSFML/include  -g   -std=c++11 -o CMakeFiles/myproject.dir/src/Projectile.cpp.o -c /home/svs0/Documents/dev/QuickStartSFML/src/Projectile.cpp",
+  "file": "/home/svs0/Documents/dev/QuickStartSFML/src/Projectile.cpp"
+}
+]
