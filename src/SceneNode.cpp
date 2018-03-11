@@ -117,7 +117,7 @@ void SceneNode::checkSceneCollision(SceneNode& sceneGraph, std::set<Pair>& colli
     checkNodeCollision(sceneGraph, collisionPairs);
 
     FOREACH(Ptr& child, sceneGraph.mChildren)
-        child->checkNodeCollision(*child, collisionPairs);
+        child->checkSceneCollision(*child, collisionPairs);
 }
 
 void SceneNode::checkNodeCollision(SceneNode& node, std::set<Pair>& collisionPairs)
